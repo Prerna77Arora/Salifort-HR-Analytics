@@ -9,7 +9,7 @@ By identifying key drivers of turnover, Salifort Motors can **improve retention 
 ---
 
 ## 🏢 Background
-**Client:** Salifort Motors (Fictional Company)  
+**Client:** Salifort Motors (A Fictional Company)  
 - Mid-sized automotive manufacturing company  
 - Facing increasing employee turnover, affecting productivity and costs  
 
